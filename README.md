@@ -126,7 +126,7 @@ Displays nutritional information for Starbucks products including calories, carb
 
 ### Daily Sales Dashboard
 
-![Daily Dashboard]([images/daily_dashboard.png](https://github.com/Hetvi3108/Starbucks-Dashboard/blob/main/Screenshot%202026-06-29%20104244.png))
+![Daily Dashboard](https://github.com/Hetvi3108/Starbucks-Dashboard/blob/main/Screenshot%202026-06-29%20104244.png)
 
 ### Weekly Sales Dashboard
 
