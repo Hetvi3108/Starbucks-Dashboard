@@ -134,7 +134,7 @@ Displays nutritional information for Starbucks products including calories, carb
 
 ### Item Content Dashboard
 
-![Item Dashboard](images/item_dashboard.png)
+![Item Dashboard](https://github.com/Hetvi3108/Starbucks-Dashboard/blob/main/Screenshot%202026-06-29%20104305.png)
 
 ---
 
